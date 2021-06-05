@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Going through the Hello WOrld tutorial to learn more about Git
+Going through the Hello World tutorial to learn more about Git
